@@ -1,2 +1,2 @@
 # tokio-chat
-Simple chat server with async Rust and Tokio library
+A simple, asynchronous chat server built with Rust and the Tokio library.
